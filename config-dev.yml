@@ -1,2 +1,2 @@
 config:
-  log: "master1,springcloud,config-dev.yml"
+  log: "master,springcloud,config-dev.yml,version:5"
